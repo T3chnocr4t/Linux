@@ -1,9 +1,9 @@
 ## Bash Scripting :computer:
-
+***
 In this article, we'll explore Bash scripting together, where I'll share what I've learned. While I'm not an expert, I can help guide you through everything you need to know about Bash scripting by sharing my insights.
 
 ## Introdution:
-
+**
 Bash scripting refers to the process of writing scripts using the Bash (Bourne Again Shell) programming language, which is the default command-line interpreter in most Unix-like operating systems, including Linux :penguin: and macOS.
 
 Bash scripting helps users automate tasks, create workflows, and control system resources using commands. It lets users run commands, change files, manage processes, and handle system administration tasks using a powerful scripting language.
