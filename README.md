@@ -31,6 +31,8 @@ There are many concepts in bash scripting, but I believe these are the most comm
 
 Below are some simple scripts that will help you understand the concepts of Bash scripting:
 ![Screenshot_2024-01-28_04-33-05 (2)](https://github.com/T3chnocr4t/Linux-Projects/assets/115868619/073ba9e8-4daf-464d-9ace-e25ea70bc235)
+![Screenshot_2024-01-28_04-35-00 (2)](https://github.com/T3chnocr4t/Linux-Projects/assets/115868619/b224d8c5-05ed-44c4-ad21-013df4dc4f0d)
+
 ![Screenshot_2024-01-28_04-40-06 (2)](https://github.com/T3chnocr4t/Linux-Projects/assets/115868619/cf138629-cf63-49c9-bd05-eb1b2891e965)
 
 
