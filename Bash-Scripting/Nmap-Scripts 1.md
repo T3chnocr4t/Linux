@@ -20,6 +20,19 @@ Next, I started the script with the shebang so that the interpreter will underst
 
 
 
+ the echo command displays text on the terminal, akin to printing a message. For instance, echo "Hello, world!" prints "Hello, world!" to the screen.
+ the sleep command temporarily stops script execution for a set duration. For instance, sleep 5 pauses the script for 5 seconds before continuing to the next instruction.
+
+
+
+
+
+
+
+![Screenshot_2024-01-30_05-48-18](https://github.com/T3chnocr4t/Linux/assets/115868619/a81fff38-d023-4712-ae6e-dd1eeb98ded3)
+
+
+
 
 
 
