@@ -36,7 +36,7 @@ So in this : The command "nmap -sT" instructs Nmap to perform a TCP connect scan
 ![have-fun!-700-188346117 (2)](https://github.com/T3chnocr4t/Linux/assets/115868619/27e1b815-0277-4ed4-a77c-6f789e4060f9)
 
 
-Yeah, that's all. Feel free to ask questions or share feedback. Here is my [Twitter handle](https://twitter/T3chnocr4t).
+Yeah, that's all. Feel free to ask questions or share feedback. Here is my [Twitter handle](https://twitter.com/T3chnocr4t).
 
 [Go back home](https://github.com/T3chnocr4t)
 
