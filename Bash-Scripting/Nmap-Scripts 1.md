@@ -34,7 +34,10 @@ In the second and third lines, I specify a comment, i.e., #, which doesn't execu
 So in this : The command "nmap -sT" instructs Nmap to perform a TCP connect scan. In a TCP connect scan, Nmap attempts to establish a full TCP connection with the target ports to determine whether they are open, closed, or filtered by a firewall. This method is more reliable but also more detectable than other scan types.
 
 
-[Go back home](https://github.com/T3chnocr4t/Linux/Bash-Scripting)
+Yeah, that's all. Feel free to ask questions or share feedback. Here is my [Twitter handle](https://twitter/T3chnocr4t).
+
+
+[Go back home](https://github.com/T3chnocr4t)
 
 
 
