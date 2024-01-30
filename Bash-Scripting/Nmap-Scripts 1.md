@@ -33,9 +33,10 @@ In the second and third lines, I specify a comment, i.e., #, which doesn't execu
 - The Nmap command, in this case, is used specifically for conducting a TCP connect scan, focusing on a specific port and IP address. in the i use nmap -sT ip addr port
 So in this : The command "nmap -sT" instructs Nmap to perform a TCP connect scan. In a TCP connect scan, Nmap attempts to establish a full TCP connection with the target ports to determine whether they are open, closed, or filtered by a firewall. This method is more reliable but also more detectable than other scan types.
 
+![have-fun!-700-188346117 (2)](https://github.com/T3chnocr4t/Linux/assets/115868619/27e1b815-0277-4ed4-a77c-6f789e4060f9)
+
 
 Yeah, that's all. Feel free to ask questions or share feedback. Here is my [Twitter handle](https://twitter/T3chnocr4t).
-
 
 [Go back home](https://github.com/T3chnocr4t)
 
