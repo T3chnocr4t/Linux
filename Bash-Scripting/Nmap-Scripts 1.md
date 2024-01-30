@@ -1,4 +1,5 @@
 ## Simple Nmap Scripts
+***
 
 Hola! :wave: Let's begin writing a simple Nmap script. Nmap is like a detective tool for computer networks. It helps you discover which devices are connected to a network, what services they're running, and how secure they are.
 
@@ -16,7 +17,8 @@ First of all, I create a script by opening a text editor and naming the file wit
 
 ![Screenshot_2024-01-30_05-55-55](https://github.com/T3chnocr4t/Linux/assets/115868619/042e971e-3461-4dfa-b220-3943fb99918c)
 
-Next, I started the script with the shebang so that the interpreter will understand it is a Bash script. The comment serves as a guide; it doesn't execute any commands. It's simply a way for anyone editing the script to understand how it works and make corrections if necessary.
+- Next, I started the script with the shebang so that the interpreter will understand it is a Bash script. 
+- In the second and third lines, I specify a comment, i.e., #, which doesn't execute. The comment serves as a guide; it doesn't execute any commands. It's simply a way for anyone editing the script to understand how it works and make corrections if necessary.
 
 
 
