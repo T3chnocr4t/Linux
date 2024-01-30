@@ -12,7 +12,15 @@ Nmap is used for network exploration and security auditing. It helps users disco
 
 Let's proceed 🚀 to explain how the script works. This script is based on Nmap's TCP Connect Scan. I'll also be creating scripts for different types of scans in the future.
 
-First of all, I create a script by opening a text editor 📓 and naming the file with the extension ".sh" in this Nmap script. I also give it permission so that I can run it.
+First of all, I create a script by opening a text editor and naming the file with the extension ".sh" in this Nmap script. I also give it permission so that I can run it. Additionally, I was able to run it, but in this case, I'm not specifying any IP addresses or port numbers. Now, let me explain how the script works 😄.
+
+
+
+
+
+
+
+
 
 
 
