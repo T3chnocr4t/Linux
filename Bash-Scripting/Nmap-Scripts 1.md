@@ -14,6 +14,7 @@ Let's proceed 🚀 to explain how the script works. This script is based on Nmap
 
 First of all, I create a script by opening a text editor and naming the file with the extension ".sh" in this Nmap script. I also give it permission so that I can run it. Additionally, I was able to run it, but in this case, I'm not specifying any IP addresses or port numbers. Now, let me explain how the script works 😄.
 
+![Screenshot_2024-01-30_05-55-55](https://github.com/T3chnocr4t/Linux/assets/115868619/042e971e-3461-4dfa-b220-3943fb99918c)
 
 
 
