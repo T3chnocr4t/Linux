@@ -29,7 +29,16 @@ In the second and third lines, I specify a comment, i.e., #, which doesn't execu
 
 - The echo command displays text on the terminal,to printing a message. For instance, echo "Hello, world!" prints "Hello, world!" to the screen.
 - The sleep command temporarily stops script execution for a set duration. For instance, sleep 5 pauses the script for 5 seconds before continuing to the next instruction.
-- The read command is used to take input from the user while the script is running. It prompts the user to enter some text, which is then stored in a variable for the script to use. 
+- The read command is used to take input from the user while the script is running. It prompts the user to enter some text, which is then stored in a variable for the script to use.
+- The Nmap command, in this case, is used specifically for conducting a TCP connect scan, focusing on a specific port and IP address. in the i use nmap -sT ip addr port
+So in this : The command "nmap -sT" instructs Nmap to perform a TCP connect scan. In a TCP connect scan, Nmap attempts to establish a full TCP connection with the target ports to determine whether they are open, closed, or filtered by a firewall. This method is more reliable but also more detectable than other scan types.
+
+
+
+
+
+
+
 
 
 
